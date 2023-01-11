@@ -26,7 +26,7 @@ mycolors <- colorRampPalette(brewer.pal(8, "Set1"))(nb.cols)
 
 # Stacked barchart
 
-ggp <- ggplot(DATA_cells,            # Create ggplot2 plot scaled to 1.00
+g1 <- ggplot(DATA_cells,            # Create ggplot2 plot scaled to 1.00
               aes(x = Mixture,
                   y = count,
                   fill = Cells, width = 1)) + # Width bar
@@ -38,7 +38,7 @@ ggp <- ggplot(DATA_cells,            # Create ggplot2 plot scaled to 1.00
 
 
   
-print(ggp)                              
+print(g1)                              
 
 
 # Saving  
