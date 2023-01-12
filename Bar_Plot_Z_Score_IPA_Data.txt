@@ -1,0 +1,20 @@
+Diseases_or_Functions_Annotation	N_Molecules	Z-score
+Organismal death	25	-3.359
+Necrosis	29	-2.051
+Metabolism of protein	16	-1.98
+Apoptosis	24	-1.937
+Uptake of D-glucose	5	-1.067
+Metabolism of DNA	6	-1.067
+Cell death of fibroblast cell lines	6	-1.032
+Infection of epithelial cell lines	5	-1.029
+Infection of embryonic cell lines	5	-1.029
+Concentration of ATP	4	1.131
+Proliferation of fibroblast cell lines	7	1.254
+Growth of lesion	13	1.427
+Growth of tumor	12	1.427
+Growth of organism	11	1.432
+Neoplasia of tumor cell lines	8	1.512
+Advanced malignant tumor	15	1.813
+Metastasis	14	1.813
+Invasive tumor	16	1.813
+Metastasis of cells	7	2.015
